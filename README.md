@@ -1,1 +1,1 @@
-# react-grapgql
+# react-graphql
